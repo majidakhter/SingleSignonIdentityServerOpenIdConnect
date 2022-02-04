@@ -12,7 +12,7 @@ IdentityServerWebSite,TestTokenApp are MVC Application
 If anonymous user browses a password protected page, s/he will be redirected to Identity Server.
 
 ![Web Application](./doc/screenshots/2_WebSite_Start.png "Web Application")
-![Web Application](./doc/screenshots/2_mvccontact.png "Web Application")
+![Web Application](./doc/screenshots/mvccontact.png "Web Application")
 ![Web Application](./doc/screenshots/mvcappcontactlink.png "Web Application")
 
 ## Login at Identity Server
