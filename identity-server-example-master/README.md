@@ -3,10 +3,10 @@ Sample project - two ASP.NET core web applications share same token generated fr
 
 ***Requirement:*** *Visual Studio 2017*
 
-## Run All Three Applications 
-Launch all three applications - Web Application, Web Service and Identity Server.
-
-![Run All Three Applications](./doc/screenshots/1_Run.png "Run All Three Applications")
+## Run All Four Applications 
+Launch all four applications - IdentityServerWebSite,TestTokenApp, Web Api and Identity Server.
+IdentityServerWebSite,TestTokenApp are MVC Application
+![Run All Four Applications](./doc/screenshots/1_Run.png "Run All Four Applications")
 
 ## Web Application
 If anonymous user browses a password protected page, s/he will be redirected to Identity Server.
